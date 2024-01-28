@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+🚀 Languages and Tools I Use
+----------------------------
+
+[![csharp](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg) [![unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
+
+[![cracker999999](https://github-profile-trophy.vercel.app/?username=cracker999999)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **cracker999999/cracker999999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
